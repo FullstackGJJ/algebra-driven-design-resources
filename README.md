@@ -10,6 +10,8 @@ This [playlist](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW
 
 This [textbook](https://www.amazon.com/Applied-Abstract-Algebra-Undergraduate-Mathematics-ebook-dp-B000YIYN9C/dp/B000YIYN9C/ref=mt_other?_encoding=UTF8&me=&qid=1609381590) goes into examples of applied abstract algebra, most importantly abstract data types and their implications on software design.
 
+[Abstract Data Types wiki](https://en.wikipedia.org/wiki/Algebraic_data_type)
+
 This [ebook](https://algebradriven.design/) which was the first material I read regarding the subject but found it too difficult as an introduction into the subject. All the earlier listed material were very helpful in helping me connect the dots for this book.
 
 # Step by step
