@@ -24,10 +24,15 @@ Haskell book list (Haskell is very pure in its approach to functional programmin
 * [Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html)
 
 **List as a fundamental data structure to solve problems along with list operations**
+
 **Anonymous Functions/Functors**
+
 **High Order Functions**
+
 **Function Composition**
+
 **Recursion**
+
 **Mapping**
 
 Algebraric datataypes are types that combine other types either as records ('products') `data Pair = Pair Int Double`
