@@ -23,6 +23,8 @@ Haskell book list (Haskell is very pure in its approach to functional programmin
 * [Learn You a Haskell](http://learnyouahaskell.com/chapters)
 * [Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html)
 
+**If/Switch/Pattern-Matching Statements**
+
 **List as a fundamental data structure to solve problems along with list operations**
 
 **Anonymous Functions/Functors**
