@@ -14,6 +14,8 @@ This [textbook](https://www.amazon.com/Applied-Abstract-Algebra-Undergraduate-Ma
 
 This [ebook](https://algebradriven.design/) which was the first material I read regarding the subject but found it too difficult as an introduction into the subject. All the earlier listed material were very helpful in helping me connect the dots for this book.
 
+This book "Algebra of of Programming" by Richard Bird and Oege de Moor [online book](https://themattchan.com/docs/algprog.pdf)
+
 # Useful functional programming techniques and concepts
 
 A great [introduction course](https://www.futurelearn.com/courses/functional-programming-haskell) that I personally completed in a week as an experienced developer
